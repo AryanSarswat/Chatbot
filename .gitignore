@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Data files
+data/
+!data/base_file.txt
+telegram_chats/
+!telegram_chats/base_file.txt

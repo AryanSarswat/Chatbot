@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 #Data files
-data/
+data/*
 !data/base_file.txt
-telegram_chats/
+telegram_chats/*
 !telegram_chats/base_file.txt
